@@ -1,6 +1,3 @@
-package DataStructure;
-
-import java.nio.file.WatchEvent;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
@@ -10,7 +7,7 @@ import java.util.Scanner;
  * @problem : https://www.acmicpc.net/problem/11085
  */
 
-public class UnionFind_02 {
+public class J01_UnionFind_02 {
     static class Edge {
         int from, to, width;
 
